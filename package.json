@@ -1,0 +1,26 @@
+{
+  "name": "node-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "9.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codejayant/node-chat-app.git"
+  },
+  "author": "jayant sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codejayant/node-chat-app/issues"
+  },
+  "homepage": "https://github.com/codejayant/node-chat-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
